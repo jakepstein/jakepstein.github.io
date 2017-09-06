@@ -5,6 +5,6 @@ Breakdown of Lehigh's Undergrad Enrollment. This was an infographic project usin
 
 ![Enrollment](https://github.com/jakepstein/jakepstein.github.io/blob/master/brunch.png?raw=true) 
 
-Timeline of the opening ceremonies from the Rio 2016 Summer Olympics!
+## Timeline of the opening ceremonies from the Rio 2016 Summer Olympics!
 
-(<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1bE10xjBVVFmetzYVT9A2uREf0qANjXAGf54T5UKrCSk&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>)
+<iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1bE10xjBVVFmetzYVT9A2uREf0qANjXAGf54T5UKrCSk&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
