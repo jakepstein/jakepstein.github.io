@@ -19,4 +19,4 @@ My name is Jake Epstein and I'm a sophomore studying Journalism and Internationa
 
 ## Breakdown of Lehigh's 2016 Undergrad Enrollment across various colleges 
 
-![Undergraduate Enrollment](https://github.com/jakepstein/jakepstein.github.io/blob/master/31.7_2016_Undergrad_Enrollment_Percentages_chartbuilder.png?raw=true)
+![Undergraduate Enrollment](https://github.com/jakepstein/jakepstein.github.io/blob/master/2016_Undergrad_Enrollment_Percentages_chartbuilder.png?raw=true)
