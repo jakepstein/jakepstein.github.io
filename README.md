@@ -16,3 +16,7 @@ My name is Jake Epstein and I'm a sophomore studying Journalism and Internationa
 ## Timeline of the Boston Marathon Bombings and the 2013 Red Sox
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1Zx7v4tGqQi2Azmi8xcUSAHLZ4tutaVtumaXb7rJaQRA&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
+
+## Breakdown of Lehigh's 2016 Undergrad Enrollment across various colleges 
+
+![Undergraduate Enrollment](https://github.com/jakepstein/jakepstein.github.io/blob/master/31.7_2016_Undergrad_Enrollment_Percentages_chartbuilder.png?raw=true)
