@@ -24,4 +24,4 @@ My name is Jake Epstein and I'm a sophomore studying Journalism and Internationa
 ## Percent change in undergraduate programs over the past 10 years 
 
 ![Enrollment change]
-(https://github.com/jakepstein/jakepstein.github.io/blob/master/Undergrad_enrollment_percentages_in_various_colleges_over_the_last_10_years_Arts_&_Sciences_Business__Engineering_chartbuilder.png?raw=true)
+(https://github.com/jakepstein/jakepstein.github.io/blob/master/Enrollment%20change.png?raw=true)
