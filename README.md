@@ -23,5 +23,4 @@ My name is Jake Epstein and I'm a sophomore studying Journalism and Internationa
 
 ## Percent change in undergraduate programs over the past 10 years 
 
-![Enrollment change]
-(https://github.com/jakepstein/jakepstein.github.io/blob/master/Enrollment%20change.png?raw=true)
+![Enrollment change](https://github.com/jakepstein/jakepstein.github.io/blob/master/Enrollment%20change.png?raw=true)
