@@ -24,3 +24,7 @@ My name is Jake Epstein and I'm a sophomore studying Journalism and Internationa
 ## Percent change in undergraduate programs over the past 10 years 
 
 ![Enrollment change](https://github.com/jakepstein/jakepstein.github.io/blob/master/Enrollment%20change.png?raw=true)
+
+## Recording total snowfall in Boston during the first three months of the year, over the last 10 years
+
+![Snowfall](https://github.com/jakepstein/jakepstein.github.io/blob/master/boston%20snowfall.png?raw=true)
