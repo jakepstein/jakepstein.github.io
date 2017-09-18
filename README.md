@@ -9,7 +9,7 @@ My name is Jake Epstein and I'm a sophomore studying Journalism and Internationa
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1bE10xjBVVFmetzYVT9A2uREf0qANjXAGf54T5UKrCSk&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
-## World Cup Winners (1930-present). This infograph shows each country that has won a World Cup, and the number of trophies they have to their name, as well as a percentage comparison of which countries boast more trophies.  
+## World Cup Winners (1930-present). This infograph shows each country that has ever won a World Cup, and the number of trophies they have to their name.
 
 ![World Cup Trophy Winners](https://github.com/jakepstein/jakepstein.github.io/blob/master/World%20Cup%20canva.png?raw=true)
 
