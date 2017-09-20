@@ -28,3 +28,7 @@ My name is Jake Epstein and I'm a sophomore studying Journalism and Internationa
 ## Recording total snowfall in Boston during the first three months of the year, over the last 10 years
 
 ![Snowfall](https://github.com/jakepstein/jakepstein.github.io/blob/master/boston%20snowfall.png?raw=true)
+
+## Art Centers in Bethlehem
+
+<iframe width="500" height="300" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+1h1Kd91oFtYeMCRMGyRfdbg6tIppaclmiunSqgzgL&amp;viz=MAP&amp;h=false&amp;lat=40.611047117044805&amp;lng=-75.37357985&amp;t=1&amp;z=10&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
