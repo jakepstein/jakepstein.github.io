@@ -32,3 +32,7 @@ My name is Jake Epstein and I'm a sophomore studying Journalism and Internationa
 ## Art Centers in Bethlehem
 
 <iframe width="500" height="300" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+1h1Kd91oFtYeMCRMGyRfdbg6tIppaclmiunSqgzgL&amp;viz=MAP&amp;h=false&amp;lat=40.611047117044805&amp;lng=-75.37357985&amp;t=1&amp;z=10&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
+
+## Major Sports Stadiums in the Greater Boston Area
+
+<iframe width="500" height="300" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+10m-1FiuBskHfW-8fIzDkcgnCZW6sw9YZad5jOYO2&amp;viz=MAP&amp;h=false&amp;lat=42.27920558715348&amp;lng=-71.30138656928409&amp;t=1&amp;z=10&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
