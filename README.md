@@ -1,4 +1,4 @@
-<html><iframe src="//www.pixton.com/embed/gilkefn8" frameborder="0" width="100%" height="384" allowfullscreen></iframe></html>
+https://github.com/jakepstein/jakepstein.github.io/blob/master/Screen%20Shot%202017-10-09%20at%2012.07.51%20PM.png?raw=true
 
 ## Hi
 My name is Jake Epstein and I'm a sophomore studying Journalism and International Relations at Lehigh University. I come from a 'burb of Boston called Newton. 
