@@ -1,7 +1,7 @@
 ![comic](https://github.com/jakepstein/jakepstein.github.io/blob/master/Screen%20Shot%202017-10-09%20at%2012.07.51%20PM.png?raw=true)
 
-## Hi
-My name is Jake Epstein and I'm a sophomore studying Journalism and International Relations at Lehigh University. I come from a 'burb of Boston called Newton. 
+## Hi!
+My name is Jake Epstein and I'm a sophomore studying Journalism and International Relations at Lehigh University. I come from a 'burb of Boston called Newton. I'm a die-hard Boston sports fan with a love for skiing and nature on the side. 
 
 ## Breakdown of Lehigh's Undergrad Enrollment. 
 This was an infographic project using Canva, as a way to visualize the percentages of students in various academic institutions at Lehigh. 
