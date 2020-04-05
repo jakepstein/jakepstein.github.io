@@ -14,7 +14,7 @@ This interactive timeline shows some of the highlights from the ealry hours at R
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1bE10xjBVVFmetzYVT9A2uREf0qANjXAGf54T5UKrCSk&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
 ## Timeline of the Boston Marathon Bombings and the 2013 Red Sox
-This timeline displays the chain of events that will go down in Boston history, as well as Red Sox history, a team that championed a city's spirit with a World Series win.
+This timeline displays the chain of events that will go down in Boston history, and that of the Red Sox, a team that championed a city's spirit with a World Series win.
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1Zx7v4tGqQi2Azmi8xcUSAHLZ4tutaVtumaXb7rJaQRA&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
