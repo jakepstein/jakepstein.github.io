@@ -18,11 +18,6 @@ This timeline displays the chain of events that will go down in Boston history, 
 
 <iframe src='https://cdn.knightlab.com/libs/timeline3/latest/embed/index.html?source=1Zx7v4tGqQi2Azmi8xcUSAHLZ4tutaVtumaXb7rJaQRA&font=Default&lang=en&initial_zoom=2&height=650' width='100%' height='650' webkitallowfullscreen mozallowfullscreen allowfullscreen frameborder='0'></iframe>
 
-## Major sports stadiums in the Greater Boston Area
-I love Boston and I love sports; combine them and get Boston sports. This interactive map is a  way to visualize where the different venues are located are their proximity to eachother (sorry, Gilette Stadium, not sure what you're doing way out there). 
-
-<iframe width="500" height="300" scrolling="no" frameborder="no" src="https://fusiontables.google.com/embedviz?q=select+col0+from+10m-1FiuBskHfW-8fIzDkcgnCZW6sw9YZad5jOYO2&amp;viz=MAP&amp;h=false&amp;lat=42.27920558715348&amp;lng=-71.30138656928409&amp;t=1&amp;z=10&amp;l=col0&amp;y=2&amp;tmplt=2&amp;hml=ONE_COL_LAT_LNG"></iframe>
-
 ## Recording total snowfall in Boston during the first three months of the year, over the last 10 years
 Being the winter and ski junkie that I am, I wanted to look at snowfall in my home for the last decade, and we can see 2015 was a big year for nor'easters with February having the most "whiteouts". 
 
